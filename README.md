@@ -30,3 +30,7 @@ Timeline and Milestones
 Website design: 1-2 week.
 
 Testing: 7 days.
+Launching: 1-2 weeks after being approved.
+
+Sitemap
+![Website Sitemap] (img/mysitemap.png)
